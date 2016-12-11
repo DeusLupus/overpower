@@ -13,44 +13,41 @@
 
                 <h1>OverPower Hub <small>Your base of Operations</small></h1>
             </div>
-
-            <div class="content">
                 <div class="row">
 
                     <div class="col-sm-6 col-md-4">
-                        <div class="thumbnail">
+                        <div class="thumbnail button btn-default">
                             <img src="..." alt="...">
                             <div class="caption">
                                 <h3>Collection</h3>
                                 <p>Under Construction</p>
-                                <p><a href="#" class="btn btn-primary" role="button">View</a></p>
+                                <p>View</p>
                             </div>
                         </div>
                     </div>
 
                     <div class="col-sm-6 col-md-4">
-                        <div class="thumbnail">
+                        <div class="thumbnail button btn-default">
                             <img src="..." alt="...">
                             <div class="caption">
                                 <h3>Story</h3>
                                 <p>...</p>
-                                <p><a href="#" class="btn btn-primary" role="button">Create your Legend</a></p>
+                                <p>Create your Legend</p>
                             </div>
                         </div>
                     </div>
 
                     <div class="col-sm-6 col-md-4">
-                        <div class="thumbnail">
+                        <div class="thumbnail button btn-default">
                             <img src="..." alt="...">
                             <div class="caption">
                                 <h3>Versus</h3>
                                 <p>Under Construction</p>
-                                <p><a href="#" class="btn btn-primary" role="button">Kick some ...</a></p>
+                                <p>Kick Some ...</p>
                             </div>
                         </div>
                     </div>
                 </div>
-            </div>
             </div>
         </div>
     </div>
