@@ -22,3 +22,5 @@ Route::get('/home', 'HomeController@index');
 Route::get('/settings', function(){
     return view('settings');
 });
+
+Route::get('/story', 'StoryController@index');

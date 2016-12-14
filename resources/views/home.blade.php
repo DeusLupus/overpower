@@ -28,12 +28,14 @@
 
                     <div class="col-sm-6 col-md-4">
                         <div class="thumbnail button btn-default">
+                            <a href="{{url('/story')}}">
                             <img src="..." alt="...">
                             <div class="caption">
                                 <h3>Story</h3>
                                 <p>...</p>
                                 <p>Create your Legend</p>
                             </div>
+                            </a>
                         </div>
                     </div>
 
