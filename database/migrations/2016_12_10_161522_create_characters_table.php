@@ -19,6 +19,7 @@ class CreateCharactersTable extends Migration
             $table->integer('strength');
             $table->integer('fighting');
             $table->integer('energy');
+            $table->
             $table->timestamps();
         });
     }
