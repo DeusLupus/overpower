@@ -17,10 +17,14 @@ Route::get('/', function () {
 
 Auth::routes();
 
+//hub routes
 Route::get('/home', 'HomeController@index');
 
 Route::get('/settings', function(){
     return view('settings');
 });
-
+//story routes
 Route::get('/story', 'StoryController@index');
+Route::get('/createCharacter', function(){
+    return view('createCharacter');
+});

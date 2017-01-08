@@ -11,13 +11,13 @@ class Characters extends Model
     public $strength;
     public $fighting;
     public $energy;
-    public $
-    public function __construct($name,$strength,$fighting,$energy){
+    public $owner;
+    public function __construct($name,$strength,$fighting,$energy,$owner){
         $this->name=$name;
         $this->strength=$strength;
         $this->fighting=$fighting;
         $this->energy=$energy;
-        $this->
+        $this->owner=$owner;
         parent::__construct();
     }
 }
